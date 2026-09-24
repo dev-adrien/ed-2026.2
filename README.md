@@ -29,8 +29,9 @@ Ferramentas para enxergar o comportamento dos ponteiros, nós e alocação na me
 ---
 
 ### 📑 Documentações e Referências em C
-- **[DevDocs - C Documentation](https://devdocs.io/c/)**: Referência rápida da biblioteca padrão do C (`stdio.h`, `stdlib.h`, `string.h`, etc.).
-- **[Cplusplus.com (C Library)](https://cplusplus.com/reference/clibrary/)**: Um dos guias mais diretos e práticos para funções de C padrão.
+- **[CS50 Manual](https://manual.cs50.io/)**: Manual de referência rápida e didática de funções clássicas da linguagem C (C Standard Library).
+- **[DevDocs - C Documentation](https://devdocs.io/c/)**: Referência completa da biblioteca padrão do C (`stdio.h`, `stdlib.h`, `string.h`, etc.).
+- **[Cplusplus.com (C Library)](https://cplusplus.com/reference/clibrary/)**: Guia prático de cabeçalhos e métodos da biblioteca padrão de C.
 - **[GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)**: Tutoriais detalhados com implementações de estruturas de dados em C.
 - **[Learn-C.org](https://www.learn-c.org/)**: Guia passo a passo interativo com exercícios diretos no navegador.
 
@@ -39,14 +40,15 @@ Ferramentas para enxergar o comportamento dos ponteiros, nós e alocação na me
 ### ▶️ Cursos e Playlists Recomendadas
 - **[Estrutura de Dados em C - Programação Descomplicada (Prof. André Backes)](https://youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4c7nQby44A3GZ-tI2M)**: Uma das séries em português mais completas sobre listas, pilhas, filas, árvores e alocação dinâmica.
 - **[Curso de C - Curso em Vídeo (Gustavo Guanabara)](https://youtube.com/playlist?list=PLHz_AreHm4dlIXlez8zBDRC460auv7e4b)**: Ótima revisão de lógica e sintaxe básica da linguagem.
-- **[CS50's Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/)**: As semanas 1 e 2 cobrem introdução a lógica e sintaxe da linguagem C, e 3 a 5 cobrem algoritmos, ponteiros, alocação dinâmica e listas encadeadas com didática de excelência mundial.
+- **[CS50's Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/)**: As semanas 1 e 2 cobrem introdução à lógica e sintaxe de C, e 3 a 5 cobrem algoritmos, ponteiros, alocação dinâmica e listas encadeadas.
 - **[Curso de Git e GitHub - Gustavo Guanabara](https://youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)**: Para versionar e entregar seus exercícios no GitHub.
 
 ---
 
 ### 🧩 Plataformas para Praticar Exercícios (Judge Online)
-- **[beecrowd (antigo URI)](https://judge.beecrowd.com/pt)**: Excelente para treinar lógica básica, arrays, strings e estruturas lineares com suporte a C.
-- **[LeetCode](https://leetcode.com/)**: Plataforma clássica para resolução de problemas de estruturas de dados e complexidade (Big-O).
+- **[beecrowd (antigo URI)](https://judge.beecrowd.com/)**: Plataforma clássica para submissão automática de exercícios de lógica, arrays, ponteiros e estruturas lineares.
+- **[The Huxley](https://www.thehuxley.com/)**: Ambiente de aprendizado e resolução de problemas práticos de programação com suporte à correção automatizada em C.
+- **[LeetCode](https://leetcode.com/)**: Plataforma focada em resolução de desafios algorítmicos e complexidade (Big-O).
 - **[HackerRank - Data Structures](https://www.hackerrank.com/domains/data-structures)**: Trilha exclusiva de desafios focados em nós, listas, pilhas e árvores.
 
 ---
