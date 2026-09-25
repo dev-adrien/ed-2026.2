@@ -1,0 +1,25 @@
+!.gitkeep
+
+# Compilacao em C e binarios
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dSYM/
+gmon.out
+
+# IDEs e editores
+.vscode/
+.idea/
+*.cbp
+*.depend
+*.layout
+
+# Arquivos de sistema e temporarios
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.tmp
