@@ -37,6 +37,16 @@ Ferramentas para enxergar o comportamento dos ponteiros, nós e alocação na me
 
 ---
 
+### 📚 Apostilas e Ebooks
+
+- **[Linguagem C (Silvio Lago)](./materiais/ebooks/slago-C.pdf)**
+- **[Programação em C (Eduardo S. Dobay)](./materiais/ebooks/apostila_c.pdf)**
+- **[Algoritmos em Linguagem C (Paulo Feofiloff)](https://pdfcoffee.com/algoritmos-em-linguagem-c-pdf-free.html)**
+- **[Linguagem GNU C (Richard Stallman)](https://mentebinaria.gitbook.io/manual-da-linguagem-gnu-c)**
+- **[Algoritmos e Estrutura de Dados (Marcos Castilho)](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf)**
+
+---
+
 ### ▶️ Cursos e Playlists Recomendadas
 - **[Estrutura de Dados em C - Programação Descomplicada (Prof. André Backes)](https://youtube.com/playlist?list=PL8iN9FQ7_jt6H5m4c7nQby44A3GZ-tI2M)**: Uma das séries em português mais completas sobre listas, pilhas, filas, árvores e alocação dinâmica.
 - **[Curso de C - Curso em Vídeo (Gustavo Guanabara)](https://youtube.com/playlist?list=PLHz_AreHm4dlIXlez8zBDRC460auv7e4b)**: Ótima revisão de lógica e sintaxe básica da linguagem.
