@@ -58,7 +58,7 @@ int main(void) {
   printf("Digite a sigla do estado: ");
 
   // Sem limpeza do buffer, a função fgets leria o '\n' e outros caracteres deixados pelo scanf, 
-  // resultando em uma string vazia.
+  // resultando em uma string vazia ou com caracteres indesejados.
   fgets(estado, sizeof(estado), stdin);
   estado[strcspn(estado, "\n")] = '\0';
 
