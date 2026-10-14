@@ -1,10 +1,14 @@
 #include <stdio.h>
+#include <string.h>
 
 int main(void) {
 
     char str[50];
 
     // scanf("%s", &string_exemplo);
+
+    // scanf("%s", &str);
+    // printf("%s", str);
 
     // fgets(destino, limite_em_bytes, canal_de_origem);
 

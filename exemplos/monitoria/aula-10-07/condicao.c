@@ -3,10 +3,10 @@
 int main(void) {
     
     // equivalente ao input no python:
-    // scanf("%f", endereço da variável)
+    // scanf("%f", endereço variável)
 
     // EXEMPLO EM PYTHON:
-    //  x = int(input("Digite um número: "))
+    // x = int(input("Digite um número: "))
     
     // MESMO EXEMPLO EM C:
     int x;
