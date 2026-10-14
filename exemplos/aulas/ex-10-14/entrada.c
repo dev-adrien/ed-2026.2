@@ -40,6 +40,7 @@ int main(void) {
   // após a leitura de números.
   // O scanf não consome o caractere de nova linha '\n' que é gerado ao pressionar Enter, 
   // então precisamos limpar o buffer.
+  // A função getchar() lê um caractere do stdin e o descarta, limpando o buffer.
   getchar(); 
 
   // Em algumas situações, é necessário limpar todo o buffer do teclado para evitar 
@@ -56,7 +57,7 @@ int main(void) {
 
   printf("Digite a sigla do estado: ");
 
-  // Sem limpeza do buffer, a função fgets leria o '\n' deixado pelo scanf, 
+  // Sem limpeza do buffer, a função fgets leria o '\n' e outros caracteres deixados pelo scanf, 
   // resultando em uma string vazia.
   fgets(estado, sizeof(estado), stdin);
   estado[strcspn(estado, "\n")] = '\0';
