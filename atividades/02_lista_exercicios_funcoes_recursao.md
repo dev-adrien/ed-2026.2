@@ -139,6 +139,7 @@ a) implemente `int fibonacci(int n)` para inteiros não negativos, que recebe um
 b) teste sua implementação com `n = 47` e observe o tempo de execução e o valor resultante. Explique o que acontece com essa implementação recursiva, quando aplicamos um valor maior de `n`, bem como o que acontece com a capacidade de respresentação do tipo `int` utilizado.       
 
 c) implemente uma versão iterativa (usando laço de repetição) e compare as soluções em relação ao tempo de execução.
+
 d) altere o tipo de retorno da função para conseguir representar adequadamente valores maiores da sequência de Fibonacci.
 
 **9.** Uma pessoa contraiu uma dívida e deseja quitá-la por meio de pagamentos mensais fixos. A cada mês, são aplicados juros sobre o saldo devedor e, em seguida, o pagamento é descontado.
