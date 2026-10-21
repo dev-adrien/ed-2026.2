@@ -209,7 +209,7 @@ Da definição acima, observe que quando `n = 0`, o saldo devedor é igual ao sa
 
 ## Questões do Livro
 
-Para complementar esta lista de exercícios, resolva as questões de `**1.1** a **3.5**`, nas `páginas 114 a 116` do livro de referência da disciplina: ***Introdução à Estrutura de Dados. 1 ed. (Celes, Cerqueira e Rangel)***.
+Para complementar esta lista de exercícios, resolva as questões de `1.1 a 3.5`, nas `páginas 114 a 116` do livro de referência da disciplina: ***Introdução à Estrutura de Dados. 1 ed. (Celes, Cerqueira e Rangel)***.
 
 O livro acima possui um exemplar físico disponível na biblioteca do campus. Uma versão digital está acessível no link disponível na descrição do grupo da disciplina no WhatsApp.
 
