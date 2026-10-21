@@ -17,6 +17,10 @@ int main(void) {
         printf("Isso não vai ser imprimido no terminal");
     }
 
+    while (true) {
+        
+    }
+
     do {
 
     } while (true);
@@ -25,6 +29,5 @@ int main(void) {
     for (int i = 0; i < 10; i++) {
         printf("%d", i);
     }
-
     
 }

@@ -9,8 +9,14 @@ typedef struct {
 } Aluno;
 
 int main(void){
+
+    // Aluno aluno1;
+    // aluno1.nota = 9.76;
+    // aluno1.matricula = 123123;
+    // printf("%d", aluno1.matricula);
+
     const int TOTAL = 2;
-    Aluno turma[TOTAL];
+    Aluno turma[TOTAL]; // [struct{nome, matricula, nota}, struct{nome, matricula, nota}]
 
     printf("=== Cadastro de Alunos ===\n");
 
@@ -27,7 +33,7 @@ int main(void){
         printf("Nota: ");
         scanf("%f", &turma[i].nota);
 
-        while (getchar() != '\n');
+        while (getchar() != '\n'); // limpeza = limpar a entrada do usuário
     }
 
 

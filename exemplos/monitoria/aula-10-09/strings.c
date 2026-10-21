@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 // comparador de string
 int main(void) {
 
@@ -41,7 +40,6 @@ int main(void) {
     } else {
         printf("Acesso negado! As palavras sao diferentes.\n");
     }
-
 
     char l1 = 'a';
     char l2 = 'A';
