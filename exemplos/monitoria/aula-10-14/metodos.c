@@ -20,12 +20,12 @@ void hello() {
 }
 
 int soma(int a, int b) {
-    return a + b;
+    return a + b; // 11
 }
 
 void desenhar_bloco(int qnt) {
-    for (int i = 0; i < qnt; i++) {
-        for (int j = 0; j < qnt; j++) {
+    for (int i = 0; i < qnt; i++) { // colunas
+        for (int j = 0; j < qnt; j++) { // linhas
             printf("# ");
         }
         printf("\n");

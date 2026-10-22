@@ -7,7 +7,7 @@ int main(void) {
 
     // scanf("%s", &string_exemplo);
 
-    // scanf("%s", &str);
+    scanf("%s", &str);
     // printf("%s", str);
 
     // fgets(destino, limite_em_bytes, canal_de_origem);
