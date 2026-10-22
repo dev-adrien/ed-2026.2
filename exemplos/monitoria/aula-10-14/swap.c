@@ -10,11 +10,11 @@ int main(int argc, char const *argv[])
 
     printf("Original: a = %d, b = %d\n", a, b);
 
-    troca_falsa(a, b);
+    troca_falsa(a, b); // passagem por valor
 
     printf("Trocados: a = %d, b = %d\n", a, b);
 
-    troca_funcional(&a, &b);
+    troca_funcional(&a, &b); // passagem por referência 
 
     printf("Valores realmente trocados: a = %d, b = %d\n", a, b);
 }
@@ -30,6 +30,3 @@ void troca_funcional(int *x, int *y) {
     *x = *y; // a e b da main
     *y = temp;
 }
-
-
-
