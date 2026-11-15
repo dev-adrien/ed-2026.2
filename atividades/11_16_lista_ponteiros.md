@@ -43,6 +43,8 @@ b) Qual a diferença entre `p`, `*p` e `&b`?
 
 c) Explique como a utilização do ponteiro permite modificar o valor de uma variável.
 
+---
+
 **Questão 02 – Aritmética de ponteiros**
 
 Considere:
@@ -65,6 +67,8 @@ d) `*p + 2`
 e) `(*p) + 2`
 
 f) Após executar `p += 3`, qual será o valor de `*p`?
+
+---
 
 **Questão 03 – Ponteiros e strings**
 
@@ -91,6 +95,8 @@ a) Qual será a saída do programa?
 b) Qual é a função do caractere `'\0'` em uma string?
 
 c) Explique como a expressão `*(p + 1)` acessa e modifica um caractere do vetor.
+
+---
 
 **Questão 04 – Ponteiros e funções**
 
