@@ -112,6 +112,8 @@ c) Apresente os valores após a troca.
 
 d) Explique por que é necessário utilizar ponteiros para modificar diretamente as variáveis originais.
 
+---
+
 **Questão 05 – Percorrendo vetores com ponteiros**
 
 Implemente um programa em C que:
